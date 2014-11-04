@@ -7,7 +7,7 @@ Author=Ben Woodall <benwoodall.com>; Ale <ale.incrowd.ws>
 [default]
 # People
 bowtie.png :bowtie:
-smile.png :smile:
+smile.png :smile: :) :-)
 laughing.png :laughing:
 blush.png :blush:
 smiley.png :smiley:
@@ -19,8 +19,8 @@ kissing_closed_eyes.png :kissing_closed_eyes:
 flushed.png :flushed:
 relieved.png :relieved:
 satisfied.png :satisfied:
-grin.png :grin:
-wink.png :wink:
+grin.png :grin: :-D
+wink.png :wink: ;-) ;)
 stuck_out_tongue_winking_eye.png :stuck_out_tongue_winking_eye:
 stuck_out_tongue_closed_eyes.png :stuck_out_tongue_closed_eyes:
 grinning.png :grinning:
@@ -29,9 +29,9 @@ kissing_smiling_eyes.png :kissing_smiling_eyes:
 stuck_out_tongue.png :stuck_out_tongue:
 sleeping.png :sleeping:
 worried.png :worried:
-frowning.png :frowning:
+frowning.png :frowning: :( :-(
 anguished.png :anguished:
-open_mouth.png :open_mouth:
+open_mouth.png :open_mouth: :-O :-o
 grimacing.png :grimacing:
 confused.png :confused:
 hushed.png :hushed:
@@ -66,7 +66,7 @@ imp.png :imp:
 smiling_imp.png :smiling_imp:
 neutral_face.png :neutral_face:
 no_mouth.png :no_mouth:
-innocent.png :innocent:
+innocent.png :innocent: o:-) O:-)
 alien.png :alien:
 yellow_heart.png :yellow_heart:
 blue_heart.png :blue_heart:
@@ -97,16 +97,11 @@ sweat_drops.png :sweat_drops:
 notes.png :notes:
 musical_note.png :musical_note:
 fire.png :fire:
-hankey.png :hankey:
-poop.png :poop:
-shit.png :shit:
-+1.png :+1:
-thumbsup.png :thumbsup:
--1.png :-1:
-thumbsdown.png :thumbsdown:
+poop.png :hankey: :poop: :shit:
+thumbsup.png :thumbsup: :yes: :+1:
+thumbsdown.png :thumbsdown: :-1:
 ok_hand.png :ok_hand:
-punch.png :punch:
-facepunch.png :facepunch:
+punch.png :punch: :facepunch:
 fist.png :fist:
 v.png :v:
 wave.png :wave:
@@ -866,8 +861,6 @@ curly_loop.png :curly_loop:
 wavy_dash.png :wavy_dash:
 part_alternation_mark.png :part_alternation_mark:
 trident.png :trident:
-black_large_square.png :black_large_square:
-white_large_square.png :white_large_square:
 white_check_mark.png :white_check_mark:
 black_square_button.png :black_square_button:
 white_square_button.png :white_square_button:
